@@ -1,4 +1,4 @@
-# KyraDang
+# Kyra Dang
 
 StudentTestScores code on Replit: https://replit.com/join/mcqjjhmqhu-kyradang
 
